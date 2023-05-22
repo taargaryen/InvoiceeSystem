@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.basicColor{
+     color: hsla(328, 100%, 50%, 1);
+}
+
